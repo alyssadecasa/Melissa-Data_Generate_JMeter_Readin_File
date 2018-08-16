@@ -1,0 +1,11 @@
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\bin\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.deps.json
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\bin\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.runtimeconfig.json
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\bin\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.runtimeconfig.dev.json
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\bin\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.dll
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\obj\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.csprojAssemblyReference.cache
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\obj\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\obj\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.AssemblyInfoInputs.cache
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\obj\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.AssemblyInfo.cs
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\bin\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.pdb
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\obj\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.dll
+C:\Users\alyssa\source\repos\ModifySQLTable\GenerateCSVforGlobalPhoneJMeter\obj\Debug\netcoreapp2.0\GenerateCSVforGlobalPhoneJMeter.pdb
